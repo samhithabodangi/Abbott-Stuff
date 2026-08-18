@@ -1,0 +1,251 @@
+record,diagnosis
+mgh001,Carotid endartarectomy
+mgh002,Resection and grafting of abdominal aortic aneurysm Aorto-bifemoral graft
+mgh003,Exploratory laporatomy for small bowel obstruction
+mgh004,Acute cholecystitis Cholecystectomy
+mgh005,Aortobifemoral graft GI bleed Exploratory laporotomy Sepsis
+mgh006,Endocarditis Sepsis
+mgh007,Multiple trauma Aortic graft
+mgh008,Colon resection Prosthetic valve Endocarditis
+mgh009,Resection and grafting of thoraco-abdominal aneurysm
+mgh010,Mitral regurgitation Prosthetic mitral valve endocarditis Pneumonia
+mgh011,Nephrectomy Renal artery bypass graft
+mgh012,Burn trauma
+mgh013,Angioplasty of right external iliac artery
+mgh014,Coronary artery bypass graft
+mgh015,Femoral-popliteal bypass graft
+mgh016,Abdominal aortic aneurysm resection and grafting
+mgh017,Mitral valve replacement and coronary artery bypass graft
+mgh018,Repair of duodenal ulcer
+mgh019,Resection and grafting of abdominal aortic aneurysm
+mgh020,Axillo-popliteal bypass graft
+mgh021,Upper GI bleeding
+mgh022,Upper GI bleed
+mgh023,Cerebral hemorrhage
+mgh024,Resection and grafting of abdominal aortic aneurysm Renal bypass graft
+mgh025,Resection of bilateral iliac aneurysms
+mgh026,Aorto-bifemoral bypass graft
+mgh027,Carotid endartarectomy
+mgh028,Unstable post-infarction angina
+mgh029,Resection and grafting of abdominal aortic aneurysm
+mgh030,Esophagogastrectomy Sepsis
+mgh031,Total hip replacement Pneumonia
+mgh032,Superior mesenteric embolectomy Small bowel resection
+mgh033,Colectomy
+mgh034,Transurethral prostrate resection
+mgh035,Resection and grafting of abdominal aortic aneurysm
+mgh036,Renal artery bypass graft
+mgh037,Renal artery bypass graft
+mgh038,Renal artery bypass graft
+mgh039,Renal artery bypass graft
+mgh040,UNKNOWN
+mgh041,UNKNOWN
+mgh042,UNKNOWN
+mgh043,UNKNOWN
+mgh044,UNKNOWN
+mgh045,UNKNOWN
+mgh046,UNKNOWN
+mgh047,UNKNOWN
+mgh048,UNKNOWN
+mgh049,UNKNOWN
+mgh050,UNKNOWN
+mgh051,Aortic and mitral valve replacements for valvular stenosis Coronary artery bypass graft
+mgh052,Coronary artery bypass grafts
+mgh053,Acute antero-lateral infarct
+mgh054,Resection and grafting of thoracoabdominal aneurysm Bifurcation graft to common iliac artery Bleeding diathesis
+mgh055,Coronary artery bypass graft
+mgh056,Ventricular septal defect post MI Sepsis
+mgh057,Coronary artery bypass graft
+mgh058,Coronary artery bypass grafts
+mgh059,Spinal fusion
+mgh060,Spinal fusion
+mgh061,Coronary artery bypass grafting
+mgh062,Aortic valve replacement
+mgh063,Mitral valve replacement Coronary disease
+mgh064,Coronary bypass graft
+mgh065,Redo mitral valve replacement
+mgh066,Unstable post-infarction angina
+mgh067,Redo coronary artery bypass graft
+mgh068,Cholecystectomy
+mgh069,Resection of abdominal aortic aneurysm
+mgh070,Resection and grafting of abdominal aortic aneurysm
+mgh071,Fixation hip fracture GI bleed
+mgh072,Coronary artery bypass graft
+mgh073,Infarctectomy Repair of ventricular septal defect
+mgh074,UNKNOWN
+mgh075,UNKNOWN
+mgh076,Pancreatic abscess Exploratory laparotomy Adult respiratory distress syndrome Sepsis
+mgh077,Head trauma Craniotomy Laparotomy
+mgh078,Exploratory laparotomy Cholecystectomy Common duct exploration
+mgh079,Head trauma/bilateral ventriculostomy Exploratory laparotomy
+mgh080,Resection and grafting of abdominal aortic aneurysm Colectomy /colostomy
+mgh081,Esophageal carcinoma Small bowel-esophageal bypass
+mgh082,Crohns disease Bacterial endocarditis Cerebrovascular accident Pneumonia? ARDS
+mgh083,Adult respiratory distress syndrome
+mgh084,Upper GI bleed Esophageal varices Coagulopathy Porto-caval shunt
+mgh085,LUL lobectomy for sarcoid bronchitis LLL apical segmentectomy
+mgh086,Sigmoid resection and colostomy Sepsis
+mgh087,Aorto-bifemoral bypass graft
+mgh088,Hepato-renal bypass graft
+mgh089,Malignant hyperthermia
+mgh090,Multiple trauma Depressed occipital skull fracture Flail chest Liver resection for laceration Cardiac contusion ? ARDS
+mgh091,Multiple trauma
+mgh092,Resection and grafting of abdominal aneurysm
+mgh093,Resection and grafting of ruptured abdominal aneurysm
+mgh094,Pancreatectomy Splenectomy Gastrectomy
+mgh095,Cerebral anoxia (drowning)
+mgh096,Aortobifemoral graft
+mgh097,Resection and grafting abdominal aortic aneurysm
+mgh098,Hemipelvectomy
+mgh099,Aorto-bifemoral bypass graft
+mgh100,Multiple trauma Craniotomy
+mgh101,Cervical spondylolysis Laminectomy
+mgh102,Cerebral aneurysm Middle cerebral artery clipping
+mgh103,Resection and grafting of abdominal aortic aneurysm
+mgh104,Exploratory laporotomy Closure gastric perforation Pyloroplasty and vagotomy Cholecystectomy
+mgh105,GI bleed Choledochojejunostomy
+mgh106,Perforated viscus Colectomy
+mgh107,Head trauma Aspiration pneumonia
+mgh108,Total repair of Tetralogy of Fallot
+mgh109,Resection and grafting of abdominal aortic aneurysm Femoral popliteal gift
+mgh110,Hepatitis Upper GI bleedinq Sepsis
+mgh111,Colectomy Sepsis
+mgh112,Removal of renal stones
+mgh113,Aorto-iliac bypass graft
+mgh114,Colectomy
+mgh115,Cholecystectomy
+mgh116,Resection and grafting of abdominal aortic aneurysm
+mgh117,Leukemia Acute renal failure Respiratory failure
+mgh118,Leukemia Acute renal failure Respiratory failure
+mgh119,Leukemia Acute renal failure Respiratory failure
+mgh120,Mitral and tricuspid valve replacements PHARMACOLOGIC SUPPORT Dopamine @ 90 mcg/min
+mgh121,Multiple trauma
+mgh122,Cardiac arrest Post-mitral valve replacement
+mgh123,Resection and grafting of abdominal aortic aneurysm
+mgh124,Resection and grafting of abdominal aortic aneurysm
+mgh125,Sub-total gastrectomy/duodenostomy
+mgh126,Pelvic mass Abdominal hysterectomy with removal of ovaries
+mgh127,Chronic visceral ischemia Aorto-superior mesenteric artery/celiac bypass graft
+mgh128,Exploratory laparotomy Colectomy
+mgh129,Gas gangrene sepsis
+mgh130,Angioplasty of right external iliac artery
+mgh131,Burns Acute respiratory distress syndrome
+mgh132,Resection and grafting of aortic aneurysm Bypass graft to superior mesenteric artery
+mgh133,RLL lobectomy for carcinoma
+mgh134,Resection and grafting of abdominal aortic aneurysm
+mgh135,Resection and grafting of aortic aneurysm Bypass graft to superior mesenteric artery
+mgh136,Sepsis
+mgh137,Axillo-popliteal bypass graft
+mgh138,Aorto-bifemoral graft
+mgh139,Renal calculus Retroperitoneal hematoma
+mgh140,Resection and grafting of thoraco-abdominal aneurysm
+mgh141,Resection of abdominal aortic aneurysm
+mgh142,Abdominal aortic aneurysm Peripheral vascular disease
+mgh143,Resection of bilateral iliac aneursysms Respiratory distress
+mgh144,Innominate artery bypass
+mgh145,Aortic valve replacement
+mgh146,Superior mesenteric Embolectomy Small bowel resection
+mgh147,Resection and grafting of abdominal aortic aneurysm
+mgh148,Sub-total gastrectomy/ duodenostomy
+mgh149,Mitral valve replacement Tricuspid annuloplasty Persistent tricuspid regurgitation Coronary artery bypass graft
+mgh150,UNKNOWN
+mgh151,Hepatic cancer Hepatectomy Exploratory laparotomy
+mgh152,Gangrene of the foot Amputation Sepsis
+mgh153,Intraventricular tumor Frontal craniotomy
+mgh154,Renal stones Renal exploration Ureteral stent
+mgh155,Upper gastrointestinal bleed Sepsis Aorto-bifemoral bypass graft Abdominal laporotomy
+mgh156,Congestive heart failure
+mgh157,Thoracic abdominal aortic aneurysm Coagulopathy Aortobifemoral bypass graft Exploratory laporotomy
+mgh158,Arterial insufficiency Ileo-profunda graft
+mgh159,Liver transplant
+mgh160,Exploratory laporotomy Colectomy Cholecystectomy
+mgh161,Multiple trauma Cerebral injury Fractures of ribs and pelvis
+mgh162,Multiple trauma Cerebral injury Fractures of ribs and pelvis
+mgh163,Spleno-renal shunt Splenectomy
+mgh164,Resection and grafting of abdominal aortic aneurysm
+mgh165,Multiple trauma
+mgh166,Multiple trauma Exploratory laporotomy Sepsis
+mgh167,Pulmonary lobectomy
+mgh168,Resection and grafting of abdominal aortic aneurysm
+mgh169,Resection and grafting of abdominal aortic aneurysm
+mgh170,Hepato-renal bypass graft
+mgh171,Coronary artery bypass graft
+mgh172,Renal artery bypass graft
+mgh173,RV hypoplasia Pulmonary atresia/valvotomy
+mgh174,Aortic valve replacement Patch closure of aorta
+mgh175,Reconstruction of popliteal artery and vein
+mgh176,Abdominal aortic aneurysm Aneurysm resection/insertion bifurcation graft
+mgh177,Abdominal aortlc aneurysm Aorto-bifemoral graft Aorto-iliac occlusion Bilateral lumbar sympathectomy
+mgh178,Left carotid artery endartarectomy
+mgh179,Chronic obstructive lung disease with pneumonia
+mgh180,Abdominal aortic aneurysm resection and grafting Aortobifemoral bypass graft
+mgh181,Femoropopliteal bypass graft Respiratory arrest
+mgh182,Crohns disease Bacterial endocarditis Cerebrovascular accident Pneumonia? ARDS
+mgh183,Resection and grafting of abdominal aortic aneurysm
+mgh184,Resection and grafting of thoracoabdominal aneurysm
+mgh185,Amputation foot Respiratory arrest
+mgh186,Resection and grafting of abdominal aortic aneurysm
+mgh187,Thoraco-abdominal SMA bypass graft
+mgh188,Resection and grafting of aortic aneurysm Insertion of aorto-bifemoral graft
+mgh189,Multiple trauma Exploratory laparotomy Splenectomy Craniotomy
+mgh190,Aorto-iliac bypass graft
+mgh191,Multiple trauma Exploratory laparotomy
+mgh192,Sclerotherapy of esophageal varices
+mgh193,Aorto-subclavian/aorto-carotid bypass
+mgh194,Craniotomy Clipping of aneurysm
+mgh195,Radial retroperitoneal resection of pheochromocytoma
+mgh196,Hepato-renal bypass graft
+mgh197,Esophagogastrectomy
+mgh198,Thoracotomy Decortication
+mgh199,Resection and grafting of abdominal aortic aneurysm
+mgh200,Resection and grafting of abdominal aneurysm
+mgh201,Abdominal aortic aneurysm resection and grafting Aortobifemoral bypass graft
+mgh202,Resection and grafting of abdominal aortic aneurysm
+mgh203,Aorto-bronchial fistula
+mgh204,UNKNOWN
+mgh205,UNKNOWN
+mgh206,UNKNOWN
+mgh207,UNKNOWN
+mgh208,UNKNOWN
+mgh209,UNKNOWN
+mgh210,UNKNOWN
+mgh211,UNKNOWN
+mgh212,UNKNOWN
+mgh213,UNKNOWN
+mgh214,UNKNOWN
+mgh215,UNKNOWN
+mgh216,UNKNOWN
+mgh217,UNKNOWN
+mgh218,UNKNOWN
+mgh219,UNKNOWN
+mgh220,UNKNOWN
+mgh221,UNKNOWN
+mgh222,UNKNOWN
+mgh223,UNKNOWN
+mgh224,UNKNOWN
+mgh225,UNKNOWN
+mgh226,Thoracic aneurysm Pancreatic abscess Sepsis Respiratory insufficiency
+mgh227,Sub-total gastrectomy/duodenostomy
+mgh228,UNKNOWN
+mgh229,UNKNOWN
+mgh230,UNKNOWN
+mgh231,UNKNOWN
+mgh232,UNKNOWN
+mgh233,UNKNOWN
+mgh234,UNKNOWN
+mgh235,UNKNOWN
+mgh236,UNKNOWN
+mgh237,UNKNOWN
+mgh238,UNKNOWN
+mgh239,UNKNOWN
+mgh240,UNKNOWN
+mgh241,UNKNOWN
+mgh242,UNKNOWN
+mgh243,UNKNOWN
+mgh244,UNKNOWN
+mgh245,UNKNOWN
+mgh246,UNKNOWN
+mgh247,UNKNOWN
+mgh248,UNKNOWN
+mgh249,UNKNOWN
+mgh250,UNKNOWN

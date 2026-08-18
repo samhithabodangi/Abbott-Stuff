@@ -1,0 +1,149 @@
+mgh001 - Complete heart block
+mgh006 - Endocarditis
+mgh007 - First-degree heart block
+mgh008 - Aortic stenosis
+mgh010 - Mitral regurgitation
+mgh011 - Mitral regurgitation
+mgh013 - Coronary artery disease
+mgh014 - Coronary artery disease
+mgh015 - Coronary artery disease
+mgh016 - Coronary artery disease
+mgh017 - Mitral valve disease
+mgh020 - Coronary artery disease
+mgh021 - Coronary artery disease
+mgh022 - Coronary artery disease
+mgh023 - Coronary artery disease
+mgh024 - Coronary artery disease
+mgh025 - Coronary artery disease
+mgh026 - Coronary artery disease
+mgh027 - Cardiomyopathy
+mgh028 - Post-infarction angina
+mgh029 - Coronary artery disease
+mgh031 - Aortic stenosis
+mgh032 - Mitral stenosis
+mgh033 - Coronary artery disease
+mgh034 - Mitral regurgitation
+mgh035 - Coronary artery disease
+mgh036 - Aortic stenosis
+mgh037 - Mitral regurgitation
+mgh038 - Aortic stenosis
+mgh039 - Aortic stenosis
+mgh042 - Ventricular septal defect
+mgh043 - Coronary artery disease
+mgh044 - Ventricular tachycardia
+mgh045 - Ventricular septal defect
+mgh047 - Tetralogy of Fallot
+mgh049 - Ebstein-related tricuspid valve disease
+mgh050 - Atrial septal defect
+mgh051 - Valvular heart disease
+mgh052 - Coronary artery disease
+mgh053 - Acute myocardial infarction
+mgh055 - Coronary artery disease
+mgh056 - Ventricular septal defect
+mgh057 - Coronary artery disease
+mgh058 - Coronary artery disease
+mgh061 - Coronary artery disease
+mgh062 - Aortic valve disease
+mgh063 - Coronary artery disease
+mgh064 - Mitral valve prolapse
+mgh065 - Mitral valve disease
+mgh066 - Mitral regurgitation
+mgh067 - Coronary artery disease
+mgh068 - Congestive heart failure
+mgh069 - Cardiomyopathy
+mgh070 - Cardiomyopathy
+mgh071 - Aortic regurgitation
+mgh072 - Coronary artery disease
+mgh073 - Ventricular septal defect
+mgh074 - Coronary artery disease
+mgh075 - Cardiomyopathy
+mgh082 - Infective endocarditis
+mgh084 - Myocardial infarction
+mgh086 - Coronary artery disease
+mgh088 - Coronary artery disease
+mgh093 - Coronary artery disease
+mgh096 - Coronary artery disease
+mgh097 - Coronary artery disease
+mgh099 - Coronary artery disease
+mgh103 - Myocardial infarction
+mgh107 - Mitral regurgitation
+mgh109 - Coronary artery disease
+mgh111 - Coronary artery disease
+mgh112 - Coronary artery disease
+mgh113 - Coronary artery disease
+mgh114 - Coronary artery disease
+mgh116 - Aortic valve disease
+mgh120 - Tricuspid valve disease
+mgh121 - Coronary artery disease
+mgh122 - Cardiac arrest
+mgh123 - Coronary artery disease
+mgh124 - Coronary artery disease
+mgh126 - Mitral stenosis
+mgh128 - Sick sinus syndrome
+mgh130 - Unstable angina
+mgh136 - Coronary artery disease
+mgh137 - Coronary artery disease
+mgh138 - First-degree heart block
+mgh139 - Aortic valve disease
+mgh140 - Coronary artery disease
+mgh141 - Cardiomyopathy
+mgh142 - Coronary artery disease
+mgh143 - Coronary artery disease
+mgh144 - Coronary artery disease
+mgh145 - Aortic valve disease
+mgh146 - Coronary artery disease
+mgh147 - Mitral valve disease
+mgh149 - Tricuspid regurgitation
+mgh150 - Coronary artery disease
+mgh153 - Myocardial infarction
+mgh155 - Myocardial infarction
+mgh156 - Congestive heart failure
+mgh163 - Coronary artery disease
+mgh164 - Coronary artery disease
+mgh165 - Coronary artery disease
+mgh167 - Coronary artery disease
+mgh168 - Coronary artery disease
+mgh169 - Coronary artery disease
+mgh170 - Coronary artery disease
+mgh171 - Coronary artery disease
+mgh172 - Aortic stenosis
+mgh173 - Pulmonary atresia
+mgh174 - Aortic valve disease
+mgh181 - Coronary artery disease
+mgh182 - Infective endocarditis
+mgh183 - Coronary artery disease
+mgh184 - First-degree heart block
+mgh185 - Myocardial infarction
+mgh186 - Coronary artery disease
+mgh188 - Coronary artery disease
+mgh190 - Coronary artery disease
+mgh193 - Coronary artery disease
+mgh196 - Coronary artery disease
+mgh197 - Mitral regurgitation
+mgh198 - Aortic regurgitation
+mgh204 - Mitral stenosis
+mgh205 - Coronary artery disease
+mgh206 - Coronary artery disease
+mgh207 - Recurrent angina
+mgh208 - Ventricular fibrillation
+mgh209 - Coronary artery disease
+mgh210 - Congenital heart disease
+mgh211 - Ventricular septal defect
+mgh212 - Mitral stenosis
+mgh213 - Unstable angina
+mgh214 - Mitral regurgitation
+mgh215 - Mitral stenosis
+mgh216 - Mitral regurgitation
+mgh217 - Congenital heart disease
+mgh218 - Tetralogy of Fallot
+mgh219 - Congenital heart disease
+mgh220 - Congenital heart disease
+mgh221 - Congenital heart disease
+mgh223 - Heart transplant
+mgh224 - Aortic regurgitation
+mgh225 - Atrioventricular canal defect
+mgh228 - Coronary artery disease
+mgh230 - Mitral stenosis
+mgh235 - Mitral stenosis
+mgh236 - Ventricular tachycardia
+mgh237 - Aortic stenosis
